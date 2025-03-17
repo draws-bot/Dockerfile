@@ -1,2 +1,2 @@
-FROM nginx:latest
+FROM almalinux:9
 CMD["goggle.com"]
