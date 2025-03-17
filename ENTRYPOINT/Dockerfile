@@ -1,2 +1,2 @@
 FROM almalinux:9
-CMD["ping","-c5","goggle.com"]
+CMD[ "ping","-c5","goggle.com" ]
