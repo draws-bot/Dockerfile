@@ -4,4 +4,4 @@ ARG COURSE=DEVOPS
 ARG TRAINER=sandeep
 ARG DURATION=100HR
 RUN echo "Course is: ${COURSE}, Trainer is: ${TRAINER}, Duration is: ${Duration}"
-CMD["sleep","200"]
+CMD ["sleep","200"]
